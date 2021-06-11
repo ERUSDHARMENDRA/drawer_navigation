@@ -2,6 +2,20 @@
 class Assets {
   Assets._();
 
+  static const String 3rdcom3rd1 = 'images/3rdcom/3rd1.png';
+  static const String 3rdcom3rdsemsyllabus1 = 'images/3rdcom/3rdsemsyllabus1.jpg';
+  static const String 3rdcom3rdsemsyllabus10 = 'images/3rdcom/3rdsemsyllabus10.jpg';
+  static const String 3rdcom3rdsemsyllabus11 = 'images/3rdcom/3rdsemsyllabus11.jpg';
+  static const String 3rdcom3rdsemsyllabus2 = 'images/3rdcom/3rdsemsyllabus2.jpg';
+  static const String 3rdcom3rdsemsyllabus3 = 'images/3rdcom/3rdsemsyllabus3.jpg';
+  static const String 3rdcom3rdsemsyllabus4 = 'images/3rdcom/3rdsemsyllabus4.jpg';
+  static const String 3rdcom3rdsemsyllabus5 = 'images/3rdcom/3rdsemsyllabus5.jpg';
+  static const String 3rdcom3rdsemsyllabus6 = 'images/3rdcom/3rdsemsyllabus6.jpg';
+  static const String 3rdcom3rdsemsyllabus7 = 'images/3rdcom/3rdsemsyllabus7.jpg';
+  static const String 3rdcom3rdsemsyllabus8 = 'images/3rdcom/3rdsemsyllabus8.jpg';
+  static const String 3rdcom3rdsemsyllabus9 = 'images/3rdcom/3rdsemsyllabus9.jpg';
+  static const String 3rdcomTest = 'images/3rdcom/test.png';
+  static const String 3rdcomTest1 = 'images/3rdcom/test1.png';
   static const String imagesLogo = 'images/logo.png';
 
 }
